@@ -1,1 +1,1 @@
-console.log("I'm OK!")
+console.log("OK!")
